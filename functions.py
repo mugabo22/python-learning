@@ -14,10 +14,9 @@ def mylife():
     course="python"
     expected_salary=4.7
     are_you_married=False
-    print(name)
-    print(age)
-    print(course)
-    print(expected_salary)
-    print(are_you_married)
+    print(f'my name is {name} and am {age} years, i expect my salary at.shs{expected_salary}')
+    
 mylife()    
+
+
 
